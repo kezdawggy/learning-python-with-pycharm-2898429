@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="464fda8c-7cf2-4a1b-92b7-4cf312731970" name="Changes" comment="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in" />
+    <list default="true" id="464fda8c-7cf2-4a1b-92b7-4cf312731970" name="Changes" comment="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in. fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="03_04" />
+        <entry key="$PROJECT_DIR$" value="challenge_1_feature_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671592000589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in">
+      <created>1671592586919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671592586919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in. fixed">
+      <created>1671592699470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671592699470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -76,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="challenge_1_feature_2" />
+                        <option value="03_04" />
                       </list>
                     </value>
                   </entry>
@@ -92,6 +106,7 @@
     <MESSAGE value="Fixed up speed issue on speed line 88 of game.py" />
     <MESSAGE value="merged in feature one music into 03_02." />
     <MESSAGE value="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in" />
-    <option name="LAST_COMMIT_MESSAGE" value="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in" />
+    <MESSAGE value="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in. fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="merged in feature two shapes into 03_02 which recently had feature one (music) also merged in. fixed" />
   </component>
 </project>
